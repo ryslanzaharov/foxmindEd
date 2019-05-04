@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BlockchainApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(BlockchainApplication.class, args);
+        System.out.println("fwrf");
     }
 
 }
